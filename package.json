@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimmmon/todo-webpack.git"
+  },
+  "author": "dimmmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimmmon/todo-webpack/issues"
+  },
+  "homepage": "https://github.com/Dimmmon/todo-webpack#readme",
+  "dependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
